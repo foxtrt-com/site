@@ -1,11 +1,1 @@
-# Site
-
-Static website files for Foxtrt.com
-
-## Authors
-
-- [@Chelsea-Fox](https://www.github.com/Chelsea-Fox)
-
-## Tech Stack
-
-HTML5, CSS, Javascript
+# NOTE: THE FOLLOWING REPOSITORY HAS BEEN MOVED TO foxtrt.com's FORGEJO INSTANCE, [HERE](https://git.foxtrt.com).
